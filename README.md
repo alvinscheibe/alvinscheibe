@@ -1,9 +1,11 @@
-<div>
-  <a href="https://github.com/rafaballerini">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinscheibe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinscheibe&layout=compact&langs_count=7&theme=github_dark" />
-    </a>
-</div>
+# Alvin Scheibe
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alvin%20Scheibe-007acc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvin-scheibe/)](https://www.linkedin.com/in/alvin-scheibe/)
+[![Gmail Badge](https://img.shields.io/badge/-alvin.scheibe@gmail.com-007acc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvin.scheibe@gmail.com)](mailto:alvin.scheibe@gmail.com)
+
+[//]: # (<a href="https://github.com/alvinscheibe">)
+[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinscheibe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,issues" />)
+[//]: # (</a>)
 
 <div style="display: inline_block"><br>
     <img alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
