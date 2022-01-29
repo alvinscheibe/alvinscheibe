@@ -12,3 +12,5 @@
     <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </div>
+
+![Snake animation](https://github.com/alvinscheibe/alvinscheibe/blob/output/github-contribution-grid-snake.svg)
