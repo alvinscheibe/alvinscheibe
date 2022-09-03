@@ -1,4 +1,19 @@
-# Alvin Scheibe
+More about me:
+
+```javascript
+const readMePlease = {
+    greetings: 'Stranger 👋',
+    iAm: 'Alvin Scheibe',
+    usually: 'Building things',
+    in: ['Laravel', 'TypeScript'],
+    currently: 'Neck deep in Next.js and GraphQL',
+    findMeOn: [{
+        discord: 'Alvin Scheibe#8682'
+    }, {
+        linkedin: 'https://www.linkedin.com/in/alvin-scheibe'
+    }],
+};
+```
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alvin%20Scheibe-007acc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvin-scheibe/)](https://www.linkedin.com/in/alvin-scheibe/)
 [![Gmail Badge](https://img.shields.io/badge/-alvin.scheibe@gmail.com-007acc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvin.scheibe@gmail.com)](mailto:alvin.scheibe@gmail.com)
