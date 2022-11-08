@@ -6,7 +6,7 @@ const readMePlease = {
     iAm: 'Alvin Scheibe',
     usually: 'Building things',
     in: ['Laravel', 'TypeScript'],
-    currently: 'Neck deep in Next.js and GraphQL',
+    currently: 'Neck deep in AdonisJS and Solidity',
     findMeOn: [{
         discord: 'Alvin Scheibe#8682'
     }, {
