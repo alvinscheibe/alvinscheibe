@@ -6,7 +6,7 @@ const readMePlease = {
     iAm: 'Alvin Scheibe',
     usually: 'Building things',
     in: ['Laravel', 'TypeScript'],
-    currently: 'Neck deep in Golang and Solidity',
+    currently: 'Neck deep in Golang and Flutter',
     findMeOn: [{
         discord: 'Alvin Scheibe#8682'
     }, {
