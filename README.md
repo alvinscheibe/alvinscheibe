@@ -8,7 +8,7 @@ const readMePlease = {
     in: ['Laravel', 'TypeScript'],
     currently: 'Neck deep in Golang and Flutter',
     findMeOn: [{
-        discord: 'Alvin Scheibe#8682'
+        discord: 'alvinscheibe'
     }, {
         linkedin: 'https://www.linkedin.com/in/alvin-scheibe'
     }],
