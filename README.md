@@ -17,6 +17,7 @@ const readMePlease = {
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alvin%20Scheibe-007acc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvin-scheibe/)](https://www.linkedin.com/in/alvin-scheibe/)
 [![Gmail Badge](https://img.shields.io/badge/-alvin.scheibe@gmail.com-007acc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvin.scheibe@gmail.com)](mailto:alvin.scheibe@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-alvinscheibe-007acc?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/483766426625114132)](https://discordapp.com/users/483766426625114132)
 
 [//]: # (<a href="https://github.com/alvinscheibe">)
 [//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinscheibe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,issues" />)
